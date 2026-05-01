@@ -42,7 +42,7 @@ const fragmentShader = `
   float fbm(vec2 p) {
     float v = 0.0;
     v += noise(p * 1.0) * 0.52;
-    v += noise(p * 2.0) * 0.25;
+    v += noise(p * 2.0) * 0.22;
     v += noise(p * 4.0) * 0.125;
     return v;
   }
