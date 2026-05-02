@@ -43,7 +43,7 @@ const fragmentShader = `
     float v = 0.0;
     v += noise(p * 1.0) * 0.52;
     v += noise(p * 2.0) * 0.22;
-    v += noise(p * 4.0) * 0.125;
+    v += noise(p * 4.0) * 0.127;
     return v;
   }
 
