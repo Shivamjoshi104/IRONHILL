@@ -53,7 +53,7 @@ body {
 
 /* WRAPPER */
 .hero__row {
-  width: 100%;
+  width: 50%;
   height: 185vh;
   position: relative;
 }
