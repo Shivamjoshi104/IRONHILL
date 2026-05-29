@@ -146,7 +146,7 @@ body {
 .hero__content h2 {
   font-size: 48px;
   text-transform: uppercase;
-  font-weight: 100;
+  font-weight: 50;
   color: var(--base-300);
   max-width: 1400px;
   margin: 0;
